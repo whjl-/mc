@@ -1,18 +1,16 @@
-[16:40:59] [Server thread/INFO]: Starting minecraft server version 14w11b
-[16:40:59] [Server thread/INFO]: Loading properties
-[16:40:59] [Server thread/INFO]: Default game type: SURVIVAL
-[16:40:59] [Server thread/INFO]: Generating keypair
-[16:40:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:40:59] [Server thread/INFO]: Preparing level "world"
-[16:41:00] [Server thread/INFO]: Preparing start region for level 0
-[16:41:01] [Server thread/INFO]: Preparing spawn area: 29%
-[16:41:02] [Server thread/INFO]: Preparing spawn area: 94%
-[16:41:02] [Server thread/INFO]: Done (2.481s)! For help, type "help" or "?"
-[16:41:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2622ms behind, skipping 52 tick(s)
-[16:41:15] [User Authenticator #1/INFO]: UUID of player wlangf07 is 2bed8359-844d-4db7-97df-c6f929f0518e
-[16:41:15] [Server thread/INFO]: wlangf07[/90.222.103.41:55682] logged in with entity id 285 at (8.733287102752696, 64.0, 104.68392165384252)
-[16:41:15] [Server thread/INFO]: wlangf07 joined the game
-[16:42:49] [Server thread/INFO]: wlangf07 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:42:49] [Server thread/INFO]: wlangf07 left the game
-[16:42:55] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[16:42:58] [Server Shutdown Thread/INFO]: Stopping server
+[06:26:59] [Server thread/INFO]: Starting minecraft server version 14w11b
+[06:26:59] [Server thread/INFO]: Loading properties
+[06:26:59] [Server thread/INFO]: Default game type: SURVIVAL
+[06:26:59] [Server thread/INFO]: Generating keypair
+[06:26:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:26:59] [Server thread/INFO]: Preparing level "world"
+[06:26:59] [Server thread/INFO]: Preparing start region for level 0
+[06:27:00] [Server thread/INFO]: Done (1.057s)! For help, type "help" or "?"
+[06:27:22] [User Authenticator #1/INFO]: UUID of player wlangf07 is 2bed8359-844d-4db7-97df-c6f929f0518e
+[06:27:22] [Server thread/INFO]: wlangf07[/90.222.103.41:57032] logged in with entity id 215 at (14.310490920815287, 65.0, 104.54792653850633)
+[06:27:22] [Server thread/INFO]: wlangf07 joined the game
+[06:27:36] [Server thread/INFO]: Set the time to 0
+[06:30:26] [Server Shutdown Thread/INFO]: Stopping server
+[06:30:26] [Server Shutdown Thread/INFO]: Saving players
+[06:30:26] [Server Shutdown Thread/INFO]: Saving worlds
+[06:30:26] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
