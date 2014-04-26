@@ -1,59 +1,50 @@
-[09:11:15] [Server thread/INFO]: Starting minecraft server version 14w11b
-[09:11:15] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[09:11:15] [Server thread/INFO]: Loading properties
-[09:11:15] [Server thread/INFO]: Default game type: SURVIVAL
-[09:11:15] [Server thread/INFO]: Generating keypair
-[09:11:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:11:16] [Server thread/INFO]: Preparing level "world"
-[09:11:17] [Server thread/INFO]: Preparing start region for level 0
-[09:11:18] [Server thread/INFO]: Preparing spawn area: 4%
-[09:11:19] [Server thread/INFO]: Preparing spawn area: 5%
-[09:11:20] [Server thread/INFO]: Preparing spawn area: 8%
-[09:11:21] [Server thread/INFO]: Preparing spawn area: 11%
-[09:11:22] [Server thread/INFO]: Preparing spawn area: 15%
-[09:11:23] [Server thread/INFO]: Preparing spawn area: 19%
-[09:11:24] [Server thread/INFO]: Preparing spawn area: 24%
-[09:11:25] [Server thread/INFO]: Preparing spawn area: 28%
-[09:11:26] [Server thread/INFO]: Preparing spawn area: 35%
-[09:11:27] [Server thread/INFO]: Preparing spawn area: 42%
-[09:11:28] [Server thread/INFO]: Preparing spawn area: 48%
-[09:11:29] [Server thread/INFO]: Preparing spawn area: 52%
-[09:11:30] [Server thread/INFO]: Preparing spawn area: 57%
-[09:11:31] [Server thread/INFO]: Preparing spawn area: 62%
-[09:11:32] [Server thread/INFO]: Preparing spawn area: 66%
-[09:11:33] [Server thread/INFO]: Preparing spawn area: 69%
-[09:11:34] [Server thread/INFO]: Preparing spawn area: 75%
-[09:11:35] [Server thread/INFO]: Preparing spawn area: 80%
-[09:11:36] [Server thread/INFO]: Preparing spawn area: 86%
-[09:11:37] [Server thread/INFO]: Preparing spawn area: 91%
-[09:11:38] [Server thread/INFO]: Preparing spawn area: 97%
-[09:11:39] [Server thread/INFO]: Done (22.715s)! For help, type "help" or "?"
-[09:11:55] [User Authenticator #1/INFO]: UUID of player wlangf07 is 2bed8359-844d-4db7-97df-c6f929f0518e
-[09:11:55] [Server thread/INFO]: wlangf07[/90.222.103.41:57351] logged in with entity id 2239 at (-76.5, 77.0, 234.5)
-[09:11:55] [Server thread/INFO]: wlangf07 joined the game
-[09:12:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5459ms behind, skipping 109 tick(s)
-[09:13:12] [Server thread/INFO]: wlangf07 has just earned the achievement [Taking Inventory]
-[09:13:47] [Server thread/INFO]: <wlangf07> soz guy just gone afk
-[09:14:40] [Server thread/INFO]: wlangf07 has just earned the achievement [Getting Wood]
-[09:14:51] [Server thread/INFO]: wlangf07 has just earned the achievement [Benchmarking]
-[09:15:08] [Server thread/INFO]: wlangf07 has just earned the achievement [Time to Mine!]
-[09:16:17] [Server thread/INFO]: wlangf07 has just earned the achievement [Getting an Upgrade]
-[09:17:29] [Server thread/INFO]: Set game difficulty to Hard
-[09:17:41] [Server thread/INFO]: Set game difficulty to Peaceful
-[09:23:27] [Server thread/INFO]: Set the time to 0
-[09:24:37] [Server thread/INFO]: Set game difficulty to Easy
-[09:30:28] [Server thread/INFO]: wlangf07 has just earned the achievement [Hot Topic]
-[09:32:55] [Server thread/INFO]: wlangf07 has just earned the achievement [Acquire Hardware]
-[09:38:04] [Server thread/INFO]: Set game difficulty to Peaceful
-[09:41:18] [Server thread/INFO]: Teleported wlangf07 to -43.5,100.0,212.5
-[09:41:42] [Server thread/INFO]: wlangf07 fell from a high place
-[09:41:59] [Server thread/INFO]: Teleported wlangf07 to -43.5,100.0,212.5
-[09:42:36] [Server thread/INFO]: That player cannot be found
-[09:44:26] [Server thread/INFO]: Teleported wlangf07 to -43.5,100.0,212.5
-[09:45:57] [Server thread/INFO]: wlangf07 has just earned the achievement [Time to Farm!]
-[09:50:07] [Server thread/INFO]: wlangf07 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[09:50:07] [Server thread/INFO]: wlangf07 left the game
-[09:50:11] [Server Shutdown Thread/INFO]: Stopping server
-[09:50:11] [Server Shutdown Thread/INFO]: Saving players
-[09:50:11] [Server Shutdown Thread/INFO]: Saving worlds
-[09:50:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[11:41:10] [Server thread/INFO]: Starting minecraft server version 14w11b
+[11:41:10] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[11:41:10] [Server thread/INFO]: Loading properties
+[11:41:10] [Server thread/INFO]: Default game type: SURVIVAL
+[11:41:10] [Server thread/INFO]: Generating keypair
+[11:41:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:41:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:41:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:41:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:41:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:41:11] [Server thread/INFO]: Preparing level "world"
+[11:41:11] [Server thread/INFO]: Preparing start region for level 0
+[11:41:12] [Server thread/INFO]: Preparing spawn area: 4%
+[11:41:14] [Server thread/INFO]: Preparing spawn area: 42%
+[11:41:15] [Server thread/INFO]: Preparing spawn area: 82%
+[11:41:15] [Server thread/INFO]: Done (4.181s)! For help, type "help" or "?"
+[11:41:17] [Server thread/INFO]: mary[/90.222.103.41:59735] logged in with entity id 285 at (-75.5, 70.0, 245.5)
+[11:41:17] [Server thread/INFO]: mary joined the game
+[11:41:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2104ms behind, skipping 42 tick(s)
+[11:41:46] [Server thread/INFO]: wlangf07[/90.222.103.41:44744] logged in with entity id 453 at (-75.5, 68.0, 238.5)
+[11:41:46] [Server thread/INFO]: wlangf07 joined the game
+[11:42:49] [Server thread/INFO]: mary has just earned the achievement [Taking Inventory]
+[11:43:07] [Server thread/INFO]: Teleported mary to -43.5,100.0,212.5
+[11:43:15] [Server thread/INFO]: Teleported wlangf07 to -43.5,100.0,212.5
+[11:43:36] [Server thread/INFO]: wlangf07 has just earned the achievement [Taking Inventory]
+[11:45:43] [Server thread/INFO]: wlangf07 has just earned the achievement [Getting Wood]
+[11:45:47] [Server thread/INFO]: <wlangf07> ugly
+[11:46:43] [Server thread/INFO]: mary has just earned the achievement [Getting Wood]
+[11:48:29] [Server thread/INFO]: wlangf07 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[11:48:29] [Server thread/INFO]: wlangf07 left the game
+[11:50:21] [Server thread/INFO]: mary was shot by Skeleton
+[11:50:24] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:50:33] [Server thread/INFO]: Set game difficulty to Peaceful
+[11:50:42] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:50:53] [Server thread/INFO]: Teleported mary to -43.5,100.0,212.5
+[12:03:59] [Server thread/INFO]: mary fell from a high place
+[12:06:06] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[12:24:50] [Server thread/INFO]: You must specify which player you wish to perform this action on.
+[12:37:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[12:37:46] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[12:38:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2749ms behind, skipping 54 tick(s)
+[12:39:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5014ms behind, skipping 100 tick(s)
+[13:04:09] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:08:14] [Server thread/INFO]: mary lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:08:14] [Server thread/INFO]: mary left the game
+[14:14:43] [Server thread/INFO]: mary[/90.222.103.41:61294] logged in with entity id 1182271 at (-42.33014735404961, 97.0, 211.69999998807907)
+[14:14:43] [Server thread/INFO]: mary joined the game
+[14:19:32] [Server thread/INFO]: mary lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:19:32] [Server thread/INFO]: mary left the game
+[14:19:38] [Server Shutdown Thread/INFO]: Stopping server
